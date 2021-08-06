@@ -1,14 +1,14 @@
 # Project 1 | Unscramble Computer Science Problems
 
-### Description 
+### Description :
 In this project, we have two .csv files we have to do some tasks on these files.
 
-### Files
+### Files :
 - The first file was (calls.csv) contains (5213) records of all calls with caller and receiver number the date and time of the call and the number 
 of seconds spent on the call.
 - The second file was (texts.csv) contains (9072) records of all texts with sender and receiver number  and the date of the message.
 
-### Tasks
+### Tasks :
 
 - **Task 0 :**  What is the first record of texts and what is the last record of calls?
 - **Task 1 :**  Which telephone number spent the longest time on the phone during the period?
