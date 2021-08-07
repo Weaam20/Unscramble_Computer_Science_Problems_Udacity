@@ -39,4 +39,4 @@ for (int j = 0; j< F_code.length;j++){
 - we have one loop Depends on the number of calls.
 - we have second loop Depends on the number of telemarketers.
 - we use the sort method it takes time-complexity **O(nlogn)**.
-- in method find_all_telemarketers (calls,texts)--> **O(n^3)**.
+- in method find_all_telemarketers (calls,texts) **O(n^3)**.
