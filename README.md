@@ -10,8 +10,8 @@ of seconds spent on the call.
 
 ### The tasks :
 
-- **Task 0 :**  What is the first record of texts and what is the last record of calls?
-- **Task 1 :**  Which telephone number spent the longest time on the phone during the period?
+- **Task 0 :**  What is the first record of texts? what is the last record of calls?
+- **Task 1 :**  What is the number of the longest call that received during Septemper?
 - **Task 2 :**  Which telephone number spent the longest time on the phone during the period? Don't forget that time spent answering a call is also
  time spent on the phone.
 - **Task 3 :** 
@@ -26,7 +26,7 @@ of seconds spent on the call.
    
                 - Telemarketers' numbers have no parentheses or space, but they start with the area code 140.
  
-         Part B : What percentage of calls from fixed lines in Bangalore are made to fixed lines also in Bangalore? In other words, of all the calls made from a number starting with (080)", what percentage of these calls were made to a number also starting with "(080)"?
-   
-- **Task 4 :** The telephone company want to identify numbers that might be doing telephone marketing. Create a set of possible telemarketers: 
+         Part B : What is the percentage of calls from fixed lines in Bangalore to fixed lines as well in Bangalore?
+         
+- **Task 4 :** The telephone company wants to identify numbers that might be doing telephone marketing. Create a set of possible telemarketers: 
 these are numbers that make outgoing calls but never send texts, receive texts or receive incoming calls.
