@@ -19,5 +19,5 @@ of seconds spent on the call.
  
      - Part B : What is the percentage of calls from fixed lines in Bangalore to fixed lines as well in Bangalore?
          
-- **Task 4 :** The telephone company wants to identify numbers that might be doing telephone marketing. Create a set of possible telemarketers 
-these are numbers that make outgoing calls but never send texts, receive texts or receive incoming calls.
+- **Task 4 :** The telephone company wants to identify numbers that might be doing telephone marketing. Create a set of possible telemarketers these
+-  are numbers that make outgoing calls but never send texts, receive texts or receive incoming calls.
